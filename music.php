@@ -24,6 +24,7 @@
       </div>
       <div class="blok" id="blok2">
         <span>project 2</span>
+        <img src="./" alt="">
       </div>
       <div class="blok" id="blok3">
         <span>project 3</span>
