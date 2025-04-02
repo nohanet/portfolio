@@ -15,8 +15,8 @@
   <nav>
     <a href="#">Contact</a>
     <a href="index.php">Home</a>
-    <a href="music.php">Music</a>
-    <a href="about-us.php">About-Us</a>
+    <a href="music.php">projecten</a>
+    <a href="over-mij.php">over-mij</a>
   </nav>
 <div class="flex-contact">
    
@@ -32,6 +32,6 @@
     </div>
 </section>
 </div>
-    <footer>Made by MLD Music</footer>
+    <footer>Gemaakt door Mohammed Ajjouch&copy;</footer>
 </body>
 </html>

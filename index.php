@@ -16,25 +16,12 @@
   <nav>
     <a href="contact.php">Contact</a>
     <a href="#">Home</a>
-    <a href="music.php">Music</a>
-    <a href="about-us.php">About-Us</a>
+    <a href="music.php">projecten</a>
+    <a href="over-mij.php">over mij</a>
   </nav>
 
-    <section class="cubes-container">
-        <div class="cube">
-            
-            <div class="cube-box"></div>
-        </div>
-        <div class="cube">
-            <p>Music 2</p>
-            <div class="cube-box"></div>
-        </div>
-        <div class="cube">
-            <p>Music 3</p>
-            <div class="cube-box"></div>
-        </div>
-    </section>
 
-<footer>Made by MLD Music</footer>
+
+<footer>Gemaakt door Mohammed Ajjouch&copy;</footer>
 </body>
 </html>

@@ -7,11 +7,11 @@
   
   body {
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(221, 221, 221);
+    background-color: rgb(171, 198, 175);
   }
   
   header {
-    background-color: rgb(37, 126, 15);
+    background-color: rgb(4, 15, 62);
     height: 80px;
     display: flex;
     justify-content: center;
@@ -31,7 +31,7 @@
   nav {
     display: flex;
     justify-content: space-evenly;
-    background-color: rgb(27, 143, 71);
+    background-color: rgb(12, 77, 128);
     border: 2px solid black;
     border-top: 0;
   }
@@ -58,7 +58,7 @@
   
   .flex-box > .blok,
   .flex-box2 > .blok {
-    background-color: rgb(22, 83, 145);
+    background-color: rgb(12, 106, 14);
     width: 400px;
     margin: 50px;
     border-radius: 30px;
@@ -91,7 +91,7 @@
   footer {
     position: fixed;
     display: flex;
-    background-color: rgb(182, 34, 34);
+    background-color: rgb(4, 15, 62);
     bottom: 0;
     height: 50px;
     color: rgb(224, 225, 221);

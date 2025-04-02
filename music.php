@@ -15,19 +15,21 @@
     <a href="contact.php">Contact</a>
     <a href="index.php">Home</a>
     <a href="#">projecten</a>
-    <a href="about-us.php">About-Us</a>
+    <a href="over-mij.php">over-mij</a>
   </nav>
   <main>
     <div class="flex-box">
       <div class="blok" id="blok1">
         <span>project 1</span>
+          <img src="mole%20wacker.png" alt="">
       </div>
       <div class="blok" id="blok2">
         <span>project 2</span>
-        <img src="./" alt="">
+        <img src="eende screen.png" alt="">
       </div>
       <div class="blok" id="blok3">
         <span>project 3</span>
+          <img src="mld screen.png" alt="">
       </div>
     </div>
     
