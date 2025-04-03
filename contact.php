@@ -30,6 +30,8 @@
            <p>ajj.mohammed8@gmail.com</p>
             <p>+31 6 09865217</p>
         </div>
+
+
     </div>
 </section>
 </div>

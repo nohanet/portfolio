@@ -20,7 +20,7 @@
   </nav>
     <section class="profile">
         <div class="profile-container">
-           <center
+            <center>
             <div class="profile-text">
                 <p><h3 class="profile-color">Ik ben Mohammed Ajjouch, ik ben 16 jaar oud en ik ben een software developer in opleiding.<br>
                     Ik heb veel verschillende projecten gemaakt met behulp van school.<br>
@@ -31,11 +31,15 @@
                     Wilt u nog meer weten over mij?<br>
                     Ga dan naar de contact pagina, daar kunt u vinden hoe u mij kan contacteren.
                 </h3> </p>
-                <img class="ik" src="img/ik.jpg">
+                <img class="ik
+" src="img/ik.jpg">
 
             </div>
+            </center>
         </div>
+
     </section>
+
     <footer>Gemaakt door Mohammed Ajjouch&copy;</footer>
 </body>
 </html>
