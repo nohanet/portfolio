@@ -20,7 +20,8 @@
     <a href="over-mij.php">over mij</a>
   </nav>
 <div style="text-align: center;">
-<p><h1>Hallo mijn naam is Mohammed Ajjouch</h1>
+<p><h1>Hallo mijn naam is Mohammed Ajjouch<br> en dit is mijn website</h1>
+
 </div>
 <footer>Gemaakt door Mohammed Ajjouch&copy;</footer>
 </body>

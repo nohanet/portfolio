@@ -20,9 +20,18 @@
   </nav>
     <section class="profile">
         <div class="profile-container">
-           
+           <center
             <div class="profile-text">
-                <p><h3 class="profile-color">Ik ben Mohammed Ajjouch, ik ben 16 jaar oud en ik ben een software developer in opleiding. Ik heb veel verschillende projecten gemaakt met behulp van school.</h3> </p>
+                <p><h3 class="profile-color">Ik ben Mohammed Ajjouch, ik ben 16 jaar oud en ik ben een software developer in opleiding.<br>
+                    Ik heb veel verschillende projecten gemaakt met behulp van school.<br>
+                Mijn hobbies zijn: voetbal, coderen, gamen, sporten en tiktok kijken.<br>
+                Ik heb altijd al mijn eigen website willen hebben, dus dit is een ware droom die uit komt.<br>
+                Met deze website hoop ik mensen te laten zien wie ik ben en wat ik allemaal kan.<br>
+                Veel mensen hebben mij verteld dat ik zeker groot potensie hebt en dat je dat kan zien aan al mijn geweldige projecten.<br>
+                    Wilt u nog meer weten over mij?<br>
+                    Ga dan naar de contact pagina, daar kunt u vinden hoe u mij kan contacteren.
+                </h3> </p>
+                <img class="ik" src="img/ik.jpg">
 
             </div>
         </div>
