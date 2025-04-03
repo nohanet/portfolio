@@ -15,19 +15,20 @@
   <nav>
     <a href="#">Contact</a>
     <a href="index.php">Home</a>
-    <a href="music.php">projecten</a>
+    <a href="projecten.php">projecten</a>
     <a href="over-mij.php">over-mij</a>
   </nav>
 <div class="flex-contact">
    
 <section class="profile">
     <div class="profile-container">
-        <div class="profile-image"><img class="TYSimg" src="../sd24-project-p03-review-your-experience-mld/img/contact.png" alt=""></div>
+        <div class="profile-image"><img class="TYSimg" src="img/contact.png" alt=""></div>
         <div class="profile-text">
             <h2>contact gegevens</h2>
             <p>hoe je mij kan contacteren
             </p>
-           
+           <p>ajj.mohammed8@gmail.com</p>
+            <p>+31 6 09865217</p>
         </div>
     </div>
 </section>

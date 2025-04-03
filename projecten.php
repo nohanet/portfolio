@@ -21,15 +21,15 @@
     <div class="flex-box">
       <div class="blok" id="blok1">
         <span>project 1</span>
-          <img src="mole%20wacker.png" alt="">
+          <a href="project1.php"><img src="mole%20wacker.png" alt=""></a>
       </div>
       <div class="blok" id="blok2">
         <span>project 2</span>
-        <img src="eende screen.png" alt="">
+          <a href="project2.php"><img src="eende screen.png" alt=""></a>
       </div>
       <div class="blok" id="blok3">
         <span>project 3</span>
-          <img src="mld screen.png" alt="">
+          <a href="project3.php"><img src="mld screen.png" alt=""></a>
       </div>
     </div>
     
@@ -37,7 +37,7 @@
     <div class="text"></div>
   </main>
   <footer>
-    Gemaakt door Mohammed Ajjouch
+    Gemaakt door Mohammed Ajjouch&copy;
   </footer>
 </body>
 </html>

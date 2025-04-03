@@ -16,12 +16,12 @@
   <nav>
     <a href="contact.php">Contact</a>
     <a href="#">Home</a>
-    <a href="music.php">projecten</a>
+    <a href="projecten.php">projecten</a>
     <a href="over-mij.php">over mij</a>
   </nav>
-
-
-
+<center>
+<p><h1>Hallo mijn naam is Mohammed Ajjouch</h1></p>
+</center>
 <footer>Gemaakt door Mohammed Ajjouch&copy;</footer>
 </body>
 </html>
