@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Music | MLD</title>
-    <link rel="stylesheet" href="css/music.css">
+    <link rel="stylesheet" href="css/projecten.css">
 </head>
 <body>
 <header>
@@ -29,7 +29,7 @@
         </div>
         <div class="blok" id="blok3">
             <span>beschrijving</span>
-            <p>Dit spel is een prototype waarin ik basis functies zoals lopen, springen en multiplayer introduceer om mijn skils als software developer te latenzien.</p>
+            <p><h3>Dit spel is een prototype gemaakt in game maker waarin ik basis functies zoals lopen, springen en multiplayer introduceer om mijn skils als software developer te latenzien.</h3>
         </div>
     </div>
 

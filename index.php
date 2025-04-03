@@ -19,9 +19,9 @@
     <a href="projecten.php">projecten</a>
     <a href="over-mij.php">over mij</a>
   </nav>
-<center>
-<p><h1>Hallo mijn naam is Mohammed Ajjouch</h1></p>
-</center>
+<div style="text-align: center;">
+<p><h1>Hallo mijn naam is Mohammed Ajjouch</h1>
+</div>
 <footer>Gemaakt door Mohammed Ajjouch&copy;</footer>
 </body>
 </html>

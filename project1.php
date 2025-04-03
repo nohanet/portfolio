@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Music | MLD</title>
-    <link rel="stylesheet" href="css/music.css">
+    <link rel="stylesheet" href="css/projecten.css">
 </head>
 <body>
 <header>
@@ -29,7 +29,7 @@
         </div>
         <div class="blok" id="blok3">
             <span>beschrijving</span>
-            <p>Wack a mole is een game waar ik enorm hard aan heb gewerkt in de tweede periode van mijn school jaar dit was deel van een groter project genaamd steam.</p>
+            <p><h3>Wack a mole is een game gemaakt in javascript en html waar ik enorm hard aan heb gewerkt in de tweede periode van mijn school jaar dit was deel van een groter project genaamd steam.</h3>
         </div>
     </div>
 

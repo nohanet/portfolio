@@ -1,0 +1,211 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(171, 198, 175);
+  }
+  
+  header {
+    background-color: rgb(4, 15, 62);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(224, 225, 221);
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+  }
+  
+  header img {
+    max-height: 100px;
+    width: auto;
+    margin: 0 10px;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(12, 77, 128);
+    border: 2px solid black;
+    border-top: 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease;
+  }
+  
+  nav a:hover {
+    transform: scale(1.2);
+  }
+  
+  .flex-box,
+  .flex-box2 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .flex-box > .blok,
+  .flex-box2 > .blok {
+    background-color: rgb(12, 106, 14);
+    width: 400px;
+    margin: 50px;
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .blok:hover {
+    transform: scale(1.1);
+  }
+  
+  .blok span {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .blok img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-top: 15px;
+  }
+  
+  footer {
+    position: fixed;
+    display: flex;
+    background-color: rgb(4, 15, 62);
+    bottom: 0;
+    height: 50px;
+    color: rgb(224, 225, 221);
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid black;
+  }
+
+@media (max-width: 450px) {
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(171, 198, 175);
+  }
+
+  header {
+    background-color: rgb(4, 15, 62);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(224, 225, 221);
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+  }
+
+  header img {
+    max-height: 100px;
+    width: auto;
+    margin: 0 10px;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(12, 77, 128);
+    border: 2px solid black;
+    border-top: 0;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease;
+  }
+
+  nav a:hover {
+    transform: scale(1.2);
+  }
+
+  .flex-box,
+  .flex-box2 {
+    display: flex;
+    flex-direction: column; /* Wijzig dit naar 'column' om de blokken onder elkaar te plaatsen */
+    justify-content: center;
+    align-items: center; /* Centraal uitlijnen van de blokken */
+  }
+
+  .flex-box > .blok,
+  .flex-box2 > .blok {
+    background-color: rgb(12, 106, 14);
+    width: 90%; /* Gebruik een percentage in plaats van vaste breedte om flexibeler te zijn */
+    max-width: 400px;
+    margin: 10px 0; /* Ruimte tussen de blokken */
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .blok:hover {
+    transform: scale(1.1);
+  }
+
+  .blok span {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .blok img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-top: 15px;
+  }
+
+  footer {
+    position: fixed;
+    display: flex;
+    background-color: rgb(4, 15, 62);
+    bottom: 0;
+    height: 50px;
+    color: rgb(224, 225, 221);
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid black;
+  }
+}
+  

@@ -22,7 +22,7 @@
         <div class="profile-container">
            
             <div class="profile-text">
-               <p>Ik ben Mohammed Ajjouch, ik ben 16 jaar oud en ik ben een software developer in opleiding. Ik heb veel verschillende projecten gemaakt met behulp van school. </p>
+                <p><h3 class="profile-color">Ik ben Mohammed Ajjouch, ik ben 16 jaar oud en ik ben een software developer in opleiding. Ik heb veel verschillende projecten gemaakt met behulp van school.</h3> </p>
 
             </div>
         </div>

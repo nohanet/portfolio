@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Music | MLD</title>
-    <link rel="stylesheet" href="css/music.css">
+    <link rel="stylesheet" href="css/projecten.css">
 </head>
 <body>
 <header>
@@ -29,7 +29,7 @@
         </div>
         <div class="blok" id="blok3">
             <span>beschrijving</span>
-            <p>Dit project is een teams opdracht waarin ik en een klasgenoot van mij samen gingen werken om een site te bouwen. in de site verkopen we onze eigen muziek en laten we onze skils zien van hoe we een werkende website kunnen bouwen.</p>
+            <p><h3>Dit project is een teams opdracht gemaakt html waarin ik en een klasgenoot van mij samen gingen werken om een site te bouwen. in de site verkopen we onze eigen muziek en laten we onze skils zien van hoe we een werkende website kunnen bouwen.</h3>
         </div>
     </div>
 

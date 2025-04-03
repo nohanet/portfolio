@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Music | MLD</title>
-  <link rel="stylesheet" href="css/music.css">
+  <link rel="stylesheet" href="css/projecten.css">
 </head>
 <body>
 <header>
@@ -32,7 +32,7 @@
           <a href="project3.php"><img src="mld screen.png" alt=""></a>
       </div>
     </div>
-    
+
 
     <div class="text"></div>
   </main>
