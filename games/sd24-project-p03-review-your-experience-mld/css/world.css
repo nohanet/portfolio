@@ -1,0 +1,249 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f7fc;
+    color: #333;
+}
+.welkom{
+    position: relative;
+    display: flex;
+    justify-self: center;
+    margin: 30px;
+}
+.profiel{
+
+    position: relative;
+    justify-self: center;
+
+    background-color: #64b5f6;
+    padding: 50px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.profile-pic{
+    position: relative;
+    display: grid;
+    grid-column-end: span;
+    width: 80px;
+    visibility: visible;
+}
+.profile-btn{
+    width: 100px;
+    border-radius: 700px;
+    border-style: hidden;
+    visibility: hidden;
+}
+.popup{
+    background-color: #1565c0;
+    width: 300px;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    position: absolute;
+    transform: translate(-50%, -50%) scale(0.1);
+    top: 0%;
+    left: 43%;
+    z-index: 1;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+}
+.open_popup{
+    top: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    visibility: visible;
+
+}
+header {
+    background-color: rgb(37, 126, 15);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: none;
+}
+
+header img {
+    max-height: 100px;
+    width: auto;
+    margin: 0 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(27, 143, 71);
+    border-top: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #3c763d;
+    transform: scale(1.1);
+}
+
+main {
+    padding: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.world-info {
+    text-align: center;
+    background-color: #1976d2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+    width: 100%;
+    max-width: 650px;
+    color: #64b5f6;
+}
+
+.world-info h2 {
+    font-size: 2.2em;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.world-image {
+    max-width: 400px;
+    border-radius: 15px;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 1.1em;
+    margin: 10px 0;
+    color: #555;
+}
+
+.review-form {
+    margin-bottom: 40px;
+    width: 100%;
+    max-width: 600px;
+    background-color: #bbdefb;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.review-form h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #1976d2;
+}
+
+.review-form form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.review-form label {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
+}
+.info{
+    background-color: #64b5f6;
+    border-radius: 20px;
+}
+.review-form input,
+.review-form textarea {
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    width: 100%;
+    max-width: 350px;
+    font-size: 1em;
+}
+
+.review-form input[type="submit"] {
+    background-color: #1976d2;
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+    padding: 12px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.review-form input[type="submit"]:hover {
+    background-color: #1565c0;
+}
+
+.reviews {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 30px;
+}
+
+.reviews h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #1976d2;
+}
+
+.review-box {
+    background-color: #64b5f6;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.review-box:hover {
+    transform: scale(1.05);
+    background-color: #42a5f5;
+}
+
+footer {
+    display: flex;
+    background-color: rgb(182, 34, 34);
+    height: 50px;
+    color: white;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    border-top: 2px solid black;
+    font-size: 1em;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: #ddd;
+    background-color: rgba(255, 255, 255, 0.2);
+}

@@ -21,7 +21,7 @@
     <div class="flex-box">
         <div class="blok" id="blok1">
             <span>MLD</span>
-
+<a href="games/sd24-project-p03-review-your-experience-mld/index.php">Bezoek site</a>
         </div>
         <div class="blok" id="blok2">
             <span>project 3</span>
@@ -29,7 +29,10 @@
         </div>
         <div class="blok" id="blok3">
             <span>beschrijving</span>
-            <p><h3>Dit project is een teams opdracht gemaakt html waarin ik en een klasgenoot van mij samen gingen werken om een site te bouwen. in de site verkopen we onze eigen muziek en laten we onze skils zien van hoe we een werkende website kunnen bouwen.</h3>
+            <p><h3>Dit project is een teams opdracht gemaakt html waarin ik
+                en een klasgenoot van mij samen gingen werken om een site te bouwen.
+                in de site verkopen we onze eigen muziek en laten we onze skils
+                zien van hoe we een werkende website kunnen bouwen.</h3>
         </div>
     </div>
 

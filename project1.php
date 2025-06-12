@@ -21,7 +21,7 @@
     <div class="flex-box">
         <div class="blok" id="blok1">
             <span>Wack a mole</span>
-
+<a href="games/wack%20the%20mole/mo.html">Bezoek site</a>
         </div>
         <div class="blok" id="blok2">
             <span>project 1</span>
@@ -29,7 +29,9 @@
         </div>
         <div class="blok" id="blok3">
             <span>beschrijving</span>
-            <p><h3>Wack a mole is een game gemaakt in javascript en html waar ik enorm hard aan heb gewerkt in de tweede periode van mijn school jaar dit was deel van een groter project genaamd steam.</h3>
+            <p><h3>Wack a mole is een game gemaakt in javascript en html waar ik enorm
+                hard aan heb gewerkt in de tweede periode van mijn school jaar dit was
+                deel van een groter project genaamd steam.</h3>
         </div>
     </div>
 
