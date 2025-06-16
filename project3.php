@@ -21,7 +21,7 @@
     <div class="flex-box">
         <div class="blok" id="blok1">
             <span>MLD</span>
-<a href="games/sd24-project-p03-review-your-experience-mld/index.php">Bezoek site</a>
+<a href="https://github.com/ROCMondriaanTIN/sd24-project-p03-review-your-experience-mld.git">Bezoek site</a>
         </div>
         <div class="blok" id="blok2">
             <span>project 3</span>
