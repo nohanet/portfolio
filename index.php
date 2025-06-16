@@ -2,27 +2,34 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Homepage | MLD</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Homepage | Mohammed</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-<header>
-   Website van Mohammed Ajjouch
-  </header>
+<body class="bg-success-subtle">
 
-  <nav>
-    <a href="contact.php">Contact</a>
-    <a href="#">Home</a>
-    <a href="projecten.php">projecten</a>
-    <a href="over-mij.php">over mij</a>
-  </nav>
-<div style="text-align: center;">
-<p><h1>Hallo mijn naam is Mohammed Ajjouch<br> en dit is mijn website</h1>
 
-</div>
-<footer>Gemaakt door Mohammed Ajjouch&copy;</footer>
+<header class="bg-dark text-light text-center py-4 border border-black">
+    <h1 class="h4 m-0">Website van Mohammed Ajjouch</h1>
+</header>
+
+<nav class="bg-primary d-flex justify-content-evenly border-start border-end border-bottom border-black py-2">
+    <a href="contact.php" class="text-decoration-none text-dark fw-semibold px-2">Contact</a>
+    <a href="#" class="text-decoration-none text-dark fw-semibold px-2">Home</a>
+    <a href="projecten.php" class="text-decoration-none text-dark fw-semibold px-2">Projecten</a>
+    <a href="over-mij.php" class="text-decoration-none text-dark fw-semibold px-2">Over mij</a>
+</nav>
+
+
+<main class="container text-center my-5">
+    <h1 class="fw-bold">Hallo mijn naam is Mohammed Ajjouch<br>en dit is mijn website</h1>
+</main>
+
+
+<footer class="bg-dark text-light text-center py-3 border border-black fixed-bottom">
+    Gemaakt door Mohammed Ajjouch &copy;
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

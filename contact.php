@@ -2,39 +2,41 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Music Page | MLD</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Music Page | Mohammed</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-<header>
-   Website van Mohammed Ajjouch
-  </header>
-  <nav>
-    <a href="#">Contact</a>
-    <a href="index.php">Home</a>
-    <a href="projecten.php">projecten</a>
-    <a href="over-mij.php">over-mij</a>
-  </nav>
-<div class="flex-contact">
-   
-<section class="profile">
-    <div class="profile-container">
-        <div class="profile-image"><img class="TYSimg" src="img/contact.png" alt=""></div>
-        <div class="profile-text">
-            <h2>contact gegevens</h2>
-            <p>hoe je mij kan contacteren
-            </p>
-           <p>ajj.mohammed8@gmail.com</p>
-            <p>+31 6 09865217</p>
+<body class="bg-success-subtle">
+
+<header class="bg-dark text-light text-center py-4 border border-black">
+    <h1 class="h4 m-0">Website van Mohammed Ajjouch</h1>
+</header>
+
+<nav class="bg-primary d-flex justify-content-evenly border-start border-end border-bottom border-black py-2">
+    <a href="#" class="text-decoration-none text-dark fw-semibold px-2">Contact</a>
+    <a href="index.php" class="text-decoration-none text-dark fw-semibold px-2">Home</a>
+    <a href="projecten.php" class="text-decoration-none text-dark fw-semibold px-2">Projecten</a>
+    <a href="over-mij.php" class="text-decoration-none text-dark fw-semibold px-2">Over mij</a>
+</nav>
+
+<section class="container my-5">
+    <div class="row align-items-center">
+        <div class="col-md-4 text-center mb-4 mb-md-0">
+            <img src="img/contact.png" alt="Contact" class="img-fluid rounded-3" style="max-width: 200px;">
         </div>
-
-
+        <div class="col-md-8 bg-light rounded-3 p-4">
+            <h2 class="mb-3 border-bottom pb-2">Contactgegevens</h2>
+            <p>Hoe je mij kan contacteren</p>
+            <p><strong>Email:</strong> ajj.mohammed8@gmail.com</p>
+            <p><strong>Telefoon:</strong> +31 6 09865217</p>
+        </div>
     </div>
 </section>
-</div>
-    <footer>Gemaakt door Mohammed Ajjouch&copy;</footer>
+
+<footer class="bg-dark text-light text-center py-3 border border-black fixed-bottom">
+    Gemaakt door Mohammed Ajjouch &copy;
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
