@@ -30,6 +30,7 @@
             <div class="card bg-success text-white text-center shadow h-100">
                 <div class="card-body d-flex flex-column justify-content-center">
                     <h5 class="card-title mb-0">Eenden Game Prototype</h5>
+                    <a href="https://github.com/ROCMondriaanTIN/st-sd-p03-kdl-gp-prototype-nohanet.git" class="btn btn-light mt-auto">Bezoek site</a>
                 </div>
             </div>
         </div>

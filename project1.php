@@ -30,7 +30,8 @@
             <div class="card bg-success text-white text-center shadow h-100">
                 <div class="card-body d-flex flex-column justify-content-center">
                     <h5 class="card-title mb-3">Wack a Mole</h5>
-                    <a href="games/wack%20the%20mole/mo.html" class="btn btn-light mt-auto">Bezoek site</a>
+                    <a href="https://github.com/ROCMondriaanTIN/st-sd-p02-project-build-a-game-b1m-steam.git" class="btn btn-light mt-auto">Bezoek site</a>
+                    <a href="games/wack%20the%20mole/mo.html" class="btn btn-light mt-auto">of speel nu</a>
                 </div>
             </div>
         </div>
