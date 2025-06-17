@@ -44,7 +44,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Project 3</h5>
                     <a href="projecten.php">
-                        <img src="mld screen.png" alt="MLD Project Screenshot" class="img-fluid rounded mt-3">
+                        <img src="img/mld screen.png" alt="MLD Project Screenshot" class="img-fluid rounded mt-3">
                     </a>
                 </div>
             </div>

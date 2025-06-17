@@ -42,7 +42,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Project 1</h5>
                     <a href="projecten.php">
-                        <img src="mole%20wacker.png" alt="Wack a Mole" class="img-fluid rounded mt-3">
+                        <img src="img/mole%20wacker.png" alt="Wack a Mole" class="img-fluid rounded mt-3">
                     </a>
                 </div>
             </div>
